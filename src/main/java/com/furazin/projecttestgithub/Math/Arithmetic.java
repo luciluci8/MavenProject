@@ -24,4 +24,7 @@ public class Arithmetic {
     public int div() {
         return a/b;
     }
+    public int cuadrado() {
+        return a*a;
+    }
 }
